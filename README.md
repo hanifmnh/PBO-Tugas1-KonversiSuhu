@@ -3,10 +3,9 @@ Praktikum Pemrograman Berorientasi Objek
 Pengumpulan Tugas 1 : Program Konversi Suhu
 
 # Identitas
-Nama  : Muhammad Nur Hanif
-NIM   : 123200123
+Nama : Muhammad Nur Hanif
+NIM : 123200123
 Kelas : PBO IF-D
-Prodi : Informatika
 
 # Studi Kasus
 +-------------+
