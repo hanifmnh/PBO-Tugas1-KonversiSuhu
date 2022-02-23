@@ -1,5 +1,5 @@
 # PBO-Tugas1-KonversiSuhu
-Praktikum Pemrograman Berorientasi Objek
+[Praktikum Pemrograman Berorientasi Objek]
 
 Pengumpulan Tugas 1 : Program Konversi Suhu
 
@@ -19,7 +19,6 @@ RUMUS KONVERSI:
 - R = (4 * C)/5
 - F = (9 * C)/5 + 32
 - K = C + 273.15
-
 
 TITIK BEKU AIR: 0 Derajat Celcius
 
