@@ -6,6 +6,7 @@ Pengumpulan Tugas 1 : Program Konversi Suhu
 Nama  : Muhammad Nur Hanif
 NIM   : 123200123
 Kelas : PBO IF-D
+Prodi : Informatika
 
 # Studi Kasus
 +-------------+
