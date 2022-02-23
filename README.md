@@ -24,7 +24,6 @@ TITIK BEKU AIR: 0 Derajat Celcius
 
 TITIK DIDIH AIR: 100 Derajat Celcius
 
-
 # Catatan
 Terdapat 2 class yaitu Main dan Konversi:
 - Kelas Main digunakan sebagai class utama dimana input dan output dilakukan
