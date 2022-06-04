@@ -8,7 +8,7 @@ Nama : Muhammad Nur Hanif
 
 NIM : 123200123
 
-Kelas : PBO IF-D
+Kelas : PBO IF-F
 
 # Studi Kasus
 Pak Ruslan bekerja di Badan Penelitian Air Bersih Internasional, karena tempat kerja Pak Ruslan berskala global maka dalam pekerjaannya Pak Ruslan perlu mengecek suhu sebuah sampel air dalam satuan celcius dan kemudian mengkonversikannya ke satuan suhu lain, yaitu: Fahrenheit, Reamur, dan Kelvin. Selain itu, Pak Ruslan juga perlu menuliskan kondisi sampel air tersebut berdasarkan titik beku dan titik didihnya. Jobdesk Pak Ruslan tersebut tentunya akan membutuhkan waktu lama apabila perhitungan dilakukan dengan manual.
